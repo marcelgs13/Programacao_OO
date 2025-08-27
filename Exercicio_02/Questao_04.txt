@@ -1,0 +1,15 @@
+Variáveis referencia |   Objeto(id)
+
+hq[0]      ===>   nulo
+
+
+hq[1]      ===>   id = 1
+
+
+hq[2]      ===>   nulo
+
+
+hq[3]      ===>   id = 2
+
+
+hq[4]      ===>   id = 0
