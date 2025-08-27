@@ -1,0 +1,4 @@
+A primeira solução é a melhor pois ele cria exatamente uma lista com 10 objetos do tipo Contact, ou seja ao fim da execução você tem 10 contatos armazenados
+em um Array para serem acessados novamente a qualquer momento que quiser.
+E já na segunda resolução são criados objetos que a cada interação são apagados pois não estão em uma lista, com isso o garbage collector acaba pegando esses objetos
+não salvos, pois só irá salvar o objeto da última interação realizada, todos os anteriores são jogados no 'limbo' e são descartados.
