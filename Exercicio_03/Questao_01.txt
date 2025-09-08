@@ -1,0 +1,16 @@
+// Método Java
+int calcArea(int height, int width) {
+    return height * width;
+}
+
+===>
+
+// Alternativas Corretas
+
+a)
+int a = calcArea(7, 12);
+short c = 7;
+calcArea(c, 15);
+
+c)
+calcArea(2, 3);
