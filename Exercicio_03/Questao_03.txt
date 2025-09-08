@@ -1,0 +1,12 @@
+Candidatos                     |   Resultado
+
+while (i < 9) / if (index < 5) ===>   14 1
+
+
+while (i < 20) / if (index < 5) ===>  25 1
+
+
+while (i < 7) / if (index < 7)  ===>  14 1
+
+
+while (i < 19) / if (index < 1)  ===> 20 1
