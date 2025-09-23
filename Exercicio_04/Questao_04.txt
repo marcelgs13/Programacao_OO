@@ -1,0 +1,3 @@
+O mesmo número pode ser adivinhado várias vezes, porque o código não marca corretamente as posições já acertadas.
+Acredito que para solucionar o bug deveria ter um método que removesse da lista de alvos o número acertado pelo jogador,
+e com isso da próxima vez que digitasse 1 nesse caso não contaria como outro acerto.
