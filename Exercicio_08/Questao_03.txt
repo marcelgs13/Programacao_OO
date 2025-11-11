@@ -1,0 +1,8 @@
+Construtores inválidos       |   Erros de Compilação
+
+(3)                        ===>   (a)symbol: constructor Boo(int, java.lang.String)
+
+(4)                        ===>   (b)symbol: constructor Boo(java.lang.String, java.lang.String)
+
+Para corrigir o construtor 3 seria colocando o super no abri e fecha chaves com os parâmetros corretos, e no construtor 4
+implementar na classe Boo construtor que aceite parâmetros com duas Strings para concertar o erro da classe SonOfBoo.
