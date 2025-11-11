@@ -1,0 +1,15 @@
+Chamadas                            |   Construtores
+
+d[0] = new Duck();                 ===>   a) public Duck()
+
+d[1] = new Duck(density, weight);  ===>   e) public Duck(float density, int max)
+
+d[2] = new Duck(name, feathers);   ===>   c) public Duck(String n, long[] f)
+
+d[3] = new Duck(canFly);           ===>   b) public Duck(boolean fly)
+
+d[4] = new Duck(3.3F, airspeed);   ===>   e) public Duck(float density, int max)
+
+d[5] = new Duck(false);            ===>   b) public Duck(boolean fly)
+
+d[6] = new Duck(airspeed, density);===>   d) public Duck(int w, float f)
